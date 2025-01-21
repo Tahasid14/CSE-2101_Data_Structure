@@ -9,7 +9,7 @@ int main(){
     {
         cout<<arr[i]<<" ";
     }
-    cout<<"\nWhich number do you want to insert at array 1st position"<<endl;
+    cout<<"\n Insert at array 1st position"<<endl;
     cin>>inst;
 
     for (int i = n-1 ; i >= 0; i--)
